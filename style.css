@@ -1,0 +1,55 @@
+:root {
+    --secondary-hex: #006E7F;
+    --secondary-rgb: 0, 110, 127;
+
+
+    --bs-secondary-rgb: var(--secondary-rgb);
+    --bs-secondary-bg-rgb: var(--secondary-rgb);
+
+}
+
+
+
+.btn-secondary {
+    background-color: #006E7F;
+}
+.btn-secondary:hover {
+    background-color: white;
+    color: #006E7F;
+    border-color: #006E7F;
+}
+
+
+
+
+.bg-gray {
+    background-color: #e0e0e0;
+}
+
+.title {
+    font-size: 63px;
+    font-weight: 600;
+}
+
+
+.bg-secondary-light {
+    background-color: #3b909d;
+}
+ 
+
+
+
+
+.accordion-button {
+    color: #006E7F;
+}
+.accordion-item {
+    color: #006E7F;
+}
+.accordion-button.collapsed {
+    background-color: #f0efef;
+}
+.accordion-button:not(.collapsed) {
+    background-color: #3b909d;
+    color: white;
+}
