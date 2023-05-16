@@ -53,3 +53,49 @@
     background-color: #3b909d;
     color: white;
 }
+
+
+
+.ls-ku {
+    line-height: 2;
+}
+
+
+.h-full {
+    height: 100%;
+}
+
+.opacity-50 {
+    opacity: 50%;
+}
+
+.scale-110 {
+    scale: 110%;
+}
+
+
+
+.animasi-hover {
+    transition: 0.5s;
+}
+
+.animasi-hover:hover {
+    padding: 50px;
+    color: #006E7F;
+}
+
+
+.footer-ref a {
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
+
+.footer-ref a:hover {
+    color: orange;
+}
+
+
+.ref {
+    text-decoration: none;
+}
